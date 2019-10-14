@@ -2,7 +2,7 @@
 
 Written by Kris Lafrance
 
-Uses HTML5, Javascript, Bootstrap
+Uses HTML5, Javascript, React, axios, Unsplash API
 
 # Features
 
