@@ -8,7 +8,7 @@ Uses HTML5, Javascript, React, axios, Unsplash API
 
 -
 
-![proj-screenshot](/img/example.jpg)
+![proj-screenshot](/public/example.jpg)
 
 # Run
 
